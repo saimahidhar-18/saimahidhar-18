@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahidhar</h1>
 <h3 align="center">A Passionate full stack developer and Programmer from India</h3>
-<center><img src="https://institute.careerguide.com/wp-content/uploads/2020/09/d9e204421993bf70b7bd72bbebadf0ed.gif"  alt="banner" width="700" height="200"></center>
 
 
 - 🌱 I’m currently learning **Frontend development**
@@ -9,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sai-mahidhar//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-mahidhar/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sai-mahidhar//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-mahidhar/" height="30" width="40" /></a>
   
 <a href="https://www.codechef.com/users/mahidhar_codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mahidhar_codes" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mahidhar_practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahidhar_practice" height="30" width="40" /></a>
