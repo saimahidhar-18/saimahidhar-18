@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahidhar</h1>
-<h3 align="center">A Passionate full stack developer and Programmer from India</h3>
+<h3 align="center">A Passionate Frontend developer and Programmer from India</h3>
 
 
 - 🌱 I’m currently learning **Frontend development**
