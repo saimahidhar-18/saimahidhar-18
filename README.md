@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Frontend developer and Programmer from India</h3>
 
 
-- 🌱 I’m currently learning **Frontend development**
+- 🌱 I’m currently learning **Backend development**
 
 - 📫 How to reach me **mahidharreddy2024@gmail.com**
 
